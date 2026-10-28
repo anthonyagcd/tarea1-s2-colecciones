@@ -14,7 +14,7 @@ require __DIR__ . '/comun/cabecera.php';    // incluye la cabecera común (barra
 <section class="tarjeta">
     <h2>Datos informativos</h2>
     <dl class="datos">
-        <dt>Autores</dt>    <dd>Anthony Amaguaña · Leandro Aziguaña</dd>
+        <dt>Autores</dt>    <dd>Anthony Amaguaña · Leandro Achiña</dd>
         <dt>Carrera</dt>    <dd>Ingeniería en Informática</dd>
         <dt>Asignatura</dt> <dd>Fundamentos de la Especialidad I</dd>
         <dt>Docente</dt>    <dd>Mg. Robinson Campaña</dd>
